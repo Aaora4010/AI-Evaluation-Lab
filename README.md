@@ -18,10 +18,7 @@ Welcome to my professional laboratory. This repository serves as the central doc
 *(Note: Links will become active as individual project repositories are published.)*
 
 ## 📄 Laboratory Index
-> **[Download the Official AI Evaluation Lab Index PDF here](?raw=true)** 
-*(Ensure you add the raw download link to your PDF here)*
-
-## 📬 Contact & Professional Links
+> **[Download the Official AI Evaluation Lab Index PDF here](https://github.com/Aaora4010/AI-Evaluation-Lab/raw/main/74c7ec9a-8c22-4e41-b8eb-182d4b832f9a_AI_Evaluation_Lab__Index.pdf)** ## 📬 Contact & Professional Links
 * **Email:** asaryan4010@gmail.com
 * **LinkedIn:** Aryan Singh
 * **GitHub:** [Aaora4010](https://github.com/Aaora4010)
